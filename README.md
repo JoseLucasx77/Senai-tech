@@ -1,4 +1,4 @@
-                                                    Senai-tech
+                                                    Senai-EDUtech
 
 
 # SENAI TECH
