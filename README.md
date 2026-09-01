@@ -54,7 +54,7 @@ Projetos e grupos estudantis.
 <p align="center">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-<img src="https://img.shields.io/badge/HTML-239120??style=for-the-badge&logo=HTML&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/HTML-2ea44f??style=for-the-badge&logo=HTML&logoColor=white" alt="HTML" />
 
 
 </p>
