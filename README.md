@@ -23,13 +23,13 @@ Criar uma ferramenta digital que ajude a melhorar o aprendizado e promover a col
 ---
 
 # Público-alvo
-Alunos do ensino fundamental e médio;
+🤓​Alunos do ensino fundamental e médio;
 
-Professores;
+🧐​Professores;
 
-Escolas;
+​🏤​Escolas;
 
-Projetos e grupos estudantis.
+​👨‍👩‍👧‍👦​Projetos e grupos estudantis.
 
 ---
 
