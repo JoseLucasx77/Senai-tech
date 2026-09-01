@@ -42,7 +42,7 @@ Projetos e grupos estudantis.
 
 # Tecnologias utilizadas
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-<3img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
 
 # Cunho social
 O diferencial do projeto é utilizar a tecnologia não apenas para estudar, mas também para aproximar os estudantes e incentivar ações sociais. Por exemplo, a escola poderia divulgar campanhas de arrecadação de materiais escolares, alimentos e livros dentro da plataforma.
