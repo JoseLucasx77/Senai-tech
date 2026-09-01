@@ -11,14 +11,14 @@ Uma plataforma criada para facilitar o acesso dos estudantes a materiais escolar
 ---
 
 # Ideação do projeto
-A ideia surgiu a partir de um problema comum nas escolas: muitos alunos têm dificuldade para encontrar materiais de estudo, tirar dúvidas e acompanhar atividades escolares.
+💭​A ideia surgiu a partir de um problema comum nas escolas: muitos alunos têm dificuldade para encontrar materiais de estudo, tirar dúvidas e acompanhar atividades escolares.
 
 O Edutech será uma aplicação web gratuita onde os estudantes poderão encontrar conteúdos organizados por matéria e interagir com outros alunos para compartilhar conhecimento.
 
 ---
 
 # Objetivo
-Criar uma ferramenta digital que ajude a melhorar o aprendizado e promover a colaboração entre estudantes, tornando o acesso ao conhecimento mais fácil.
+🔧​​Criar uma ferramenta digital que ajude a melhorar o aprendizado e promover a colaboração entre estudantes, tornando o acesso ao conhecimento mais fácil.
 
 ---
 
