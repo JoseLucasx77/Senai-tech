@@ -1,5 +1,5 @@
                                                     Senai-EDUtech
-
+<img src="blob:chrome-untrusted://media-app/aeaf8a82-2746-4cfa-bc2a-cd28dcaf765e" alt="ChatGPT Image 1 de set. de 2026, 17_14_14.png"/> 
 
 # SENAI TECH
 
