@@ -50,10 +50,11 @@ Projetos e grupos estudantis.
 
 ---
 
+<p align="center">
 # Tecnologias utilizadas
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-
+</p>
 ---
 
 # Cunho social
