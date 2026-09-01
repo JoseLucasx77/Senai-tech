@@ -52,9 +52,10 @@ Projetos e grupos estudantis.
 
 # Tecnologias utilizadas
 <p align="center">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-<img src="https://shields.io" alt="HTML" />
+<img src="https://img.shields.io/badge/HTML-1572B6?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML" />
+
 
 </p>
 
