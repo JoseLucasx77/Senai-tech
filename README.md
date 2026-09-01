@@ -1,2 +1,2 @@
                                                     Senai-tech
-<img src="blob:chrome-untrusted://media-app/29887a6a-cd4f-4228-a50f-ad1ea1b85cdf" alt="Gemini_Generated_Image_lu4x8qlu4x8qlu4x.png"/>
+<img src="blob:chrome-untrusted://media-app/2f97e2fd-cf4d-429b-aa28-d6a57a9432a6" alt="ChatGPT Image 1 de set. de 2026, 17_14_14.png"/>
