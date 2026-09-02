@@ -1,6 +1,5 @@
                                                     Senai-EDUtech
-<img src="blob:chrome-untrusted://media-app/aeaf8a82-2746-4cfa-bc2a-cd28dcaf765e" alt="ChatGPT Image 1 de set. de 2026, 17_14_14.png"/> 
-
+<img src="blob:chrome-untrusted://media-app/e39739ef-86d4-4834-aa54-e7dda0cc03fd" alt="SENAI-EDUTECH.png"/>
 # SENAI TECH
 
 Slogan: “Conectando alunos, conhecimento e oportunidades.”
