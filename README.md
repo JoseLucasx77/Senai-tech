@@ -3,8 +3,7 @@
 ---
 
 <p align="center">
-  <img"<img src="blob:chrome-untrusted://media-app/bbabca70-46ab-4cac-be06-6bc0772e6c9a" alt="SENAI-EDUTECH (1).png"/><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4aec87a-6845-4aef-b492-1ee2db1be280"
-">
+  <img"<img src="blob:chrome-untrusted://media-app/77c636ca-2107-479f-8b44-bcf13c33a3de" alt="SENAI-EDUTECH (2).png"/><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/658b6219-e160-49a5-944c-9da408a7379c"/>
 </p>
 
 # SENAI TECH
