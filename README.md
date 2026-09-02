@@ -1,5 +1,10 @@
                                                     Senai-EDUtech
-<img src="blob:chrome-untrusted://media-app/e39739ef-86d4-4834-aa54-e7dda0cc03fd" alt="SENAI-EDUTECH.png"/>
+<p align="center">
+  <img src="width="1920" height="1080" alt="SENAI-EDUTECH" src="https://github.com/user-attachments/assets/bfa2afaf-73b6-41ed-a143-90e7c66df1b6" />
+" alt="SENAI EDUTECH">
+</p>
+---
+
 # SENAI TECH
 
 Slogan: “Conectando alunos, conhecimento e oportunidades.”
