@@ -4,8 +4,6 @@
   <img width="1920" height="650" alt="image" src="https://github.com/user-attachments/assets/0be8c5a1-dceb-49f8-9496-f51cf5754538"/alt=">
 </p>
 
----
-
 # SENAI TECH
 
 Slogan: “Conectando alunos, conhecimento e oportunidades.”
