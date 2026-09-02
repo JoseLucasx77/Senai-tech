@@ -1,7 +1,8 @@
                                                     SENAI-EDUTECH
                                                     
   <p align="center">
-  <img src="blob:chrome-untrusted://media-app/1646c529-02fc-4363-b7eb-ba09bd6621ef" alt="SENAI EDUTECH">
+  <img src="<img src="blob:chrome-untrusted://media-app/1646c529-02fc-4363-b7eb-ba09bd6621ef" alt="SENAI-EDUTECH.png"/><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0be8c5a1-dceb-49f8-9496-f51cf5754538" />
+ alt="SENAI EDUTECH">
 </p>
 ---
 
